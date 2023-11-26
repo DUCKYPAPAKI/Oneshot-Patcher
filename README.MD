@@ -1,9 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/DUCKYPAPAKI/Oneshot-patcher">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Oneshot Patcher</h3>
 
 </p>
